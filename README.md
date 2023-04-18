@@ -1,4 +1,4 @@
-# SocialMedia_React
+# Social media website using the MERN stack
 A React social media website, complete with Auth, Likes, Darkmode and more
 
 
